@@ -11,14 +11,14 @@ body {
 .counter-container {
     text-align: center;
     background-color: #fff;
-    padding: 40px;
+    padding: 30px;
     border-radius: 15px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
     width: 300px;
 }
 
 .counter {
-    font-size: 5rem;
+    font-size: 7rem;
     margin-bottom: 30px;
     color: #333;
     font-weight: bold;
@@ -27,7 +27,7 @@ body {
 
 .button-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     gap: 10px;
 }
 
